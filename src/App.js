@@ -6,6 +6,9 @@ import ReactDOM from 'react-dom';
 import _ from 'lodash';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'font-awesome/css/font-awesome.min.css';
+//import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+// Latest compiled and minified CSS
+//<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css">
 
 
 //Main APP
